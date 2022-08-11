@@ -8,5 +8,9 @@ gcloud projects list
 ```
 
 ```
-gcloud config set project *projectid* (replace project id with actual project id)
+gcloud config set project 
+```
+Ex:
+```
+gcloud config set project tenacious-post-355715
 ```
